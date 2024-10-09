@@ -6,5 +6,5 @@ Este repositório contém uma coleção de atividades e exercícios práticos pa
   
 # Estrutura do Repositório
 
-Atividades: Pastas com exercícios práticos e desafios.
-Documentação: Guias e tutoriais sobre os conceitos abordados.
+- Atividades: Pastas com exercícios práticos e desafios.
+- Documentação: Guias e tutoriais sobre os conceitos abordados.
